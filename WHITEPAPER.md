@@ -13,14 +13,14 @@ This White Paper is for informational purposes only and does not constitute fina
 
 ## 1. Abstract
 
-NeoBank Chain is the world's first financial super-app to simultaneously bridge **Centralized Finance (CeFi)**, **Decentralized Finance (DeFi)**, **Islamic Finance**, and **AI-powered banking** into one seamless, accessible, and globally inclusive experience.
+NeoBank Chain is the world's first financial super-app to simultaneously bridge **Centralized Finance (CeFi)**, **Decentralized Finance (DeFi)**, **Ethical finance**, and **AI-powered banking** into one seamless, accessible, and globally inclusive experience.
 
 Built on the **Solana blockchain**, powered by **Claude AI**, and designed from first principles for global accessibility — NeoBank Chain gives every individual and business, regardless of location, religion, or technical knowledge, complete control over their financial life.
 
 **Key pillars:**
-- 🌉 First true CeFi + DeFi + Islamic Finance bridge in a single mobile app
+- 🌉 First true CeFi + DeFi + Ethical finance bridge in a single mobile app
 - ⚡ Solana Alpenglow — 150ms transaction finality, $0.00025 fee
-- ☪️ Shariah-compliant products — serving 1.8 billion Muslims worldwide
+- ☪️ values-aligned products — serving 1.8 billion ethical finance seekers worldwide
 - 🤖 Claude AI — personal financial advisor for every user
 - 💼 B2B professional suite — letters of credit, trade finance on blockchain
 - 🌍 Global from day one — no primary market restriction
@@ -40,7 +40,7 @@ Despite decades of fintech innovation, the global financial system continues to 
 | Adults with no bank account | 1.7 billion (World Bank 2025) |
 | Average international transfer fee | 6.3% of transaction value |
 | SWIFT transfer processing time | 3–5 business days |
-| Muslims excluded from interest-based banking | 1.8 billion people |
+| ethical finance seekers excluded from interest-based banking | 1.8 billion people |
 | SMEs rejected for trade finance | Over 40% of applications |
 | DeFi users as % of global population | Less than 0.3% |
 
@@ -56,13 +56,13 @@ Decentralized Finance holds $238 billion in Total Value Locked (2026) and grows 
 - Regulatory uncertainty blocks institutional participation
 - Zero accommodation for religious finance principles
 
-### 2.3 The Islamic Finance Opportunity
+### 2.3 The Ethical finance Opportunity
 
-Islamic finance assets reached **$5.2 trillion in 2025** and grow at 13.8% annually. Yet:
+Ethical finance assets reached **$5.2 trillion in 2025** and grow at 13.8% annually. Yet:
 
-- Existing Islamic banks run on conventional banking infrastructure with Shariah compliance bolted on as an afterthought
-- No platform combines Islamic finance with DeFi yields and blockchain technology
-- The digital-native Muslim generation — young, mobile-first, globally connected — has no financial home
+- Existing ethical banks run on conventional banking infrastructure with ethical compliance bolted on as an afterthought
+- No platform combines Ethical finance with DeFi yields and blockchain technology
+- The digital-native ethical finance seeker generation — young, mobile-first, globally connected — has no financial home
 
 ### 2.4 The B2B Trade Finance Bottleneck
 
@@ -84,18 +84,18 @@ This is a $250 trillion annual market waiting to be disrupted.
 
 ## 3. The Solution — NeoBank Chain
 
-NeoBank Chain does not choose between CeFi, DeFi, Islamic finance, or AI banking. It unifies all four.
+NeoBank Chain does not choose between CeFi, DeFi, Ethical finance, or AI banking. It unifies all four.
 
 ```
 What we take from each world:
 
-CeFi:                    DeFi:                   Islamic Finance:
+CeFi:                    DeFi:                   Ethical finance:
 ✅ Familiar UI           ✅ No intermediaries    ✅ No interest (riba)
 ✅ Fiat support          ✅ Instant transfers    ✅ Asset-backed
 ✅ KYC/AML               ✅ Transparent data     ✅ Profit/loss sharing
 ✅ Customer support      ✅ User-controlled      ✅ Ethical investing
 ✅ Regulatory trust      ✅ DeFi yields          ✅ Community benefit
-✅ Trade finance         ✅ Smart contracts      ✅ Shariah certification
+✅ Trade finance         ✅ Smart contracts      ✅ ethical certification
 
 AI Layer:
 ✅ Personalized advice   ✅ Fraud detection     ✅ Language support
@@ -112,7 +112,7 @@ A single KYC verification — completed in under 30 seconds using AI document an
 - Access to **crypto balances** (SOL, USDC, BTC, ETH...)
 - Immediate **virtual debit card**
 - Access to **DeFi yield products** labeled as simple savings
-- Access to **Islamic finance products** if chosen
+- Access to **Ethical finance products** if chosen
 - **Claude AI** as personal financial advisor
 
 No technical knowledge required. No choice between worlds.
@@ -126,7 +126,7 @@ User Action             Bridge Logic              Execution
 ──────────              ────────────              ─────────
 "Send $200"        →    Route optimizer      →    SEPA or Solana P2P
 "Save $1,000"      →    Yield selector + AI  →    Kamino USDC vault
-"Get financing"    →    Compliance check     →    Mourabaha OR Solend
+"Get financing"    →    Compliance check     →    profit-sharing financing OR Solend
 "Pay invoice"      →    B2B processor        →    Smart contract Credoc
 "Buy SOL"          →    DEX aggregator       →    Jupiter best price
 ```
@@ -169,7 +169,7 @@ programs/
 ├── transfer_program/        — P2P, batch, scheduled transfers
 ├── savings_program/         — Yield vaults, auto-compound
 ├── lending_program/         — Collateralized borrowing
-├── islamic_program/         — Mourabaha, Musharaka contracts
+├── islamic_program/         — profit-sharing financing, partnership financing contracts
 ├── b2b_program/             — Letters of credit on-chain
 └── compliance_program/      — KYC hooks, AML screening
 ```
@@ -186,7 +186,7 @@ Claude AI is embedded as a first-class citizen in NeoBank Chain, not as a chatbo
 
 **Guardian mode:** Monitors all transactions for anomalies, alerts user to suspicious activity, blocks potential fraud in real-time.
 
-**Islamic finance mode:** Understands Shariah principles and ensures product recommendations respect the user's religious preferences.
+**Ethical finance mode:** Understands ethical principles and ensures product recommendations respect the user's religious preferences.
 
 **Multilingual mode:** Operates in Arabic, French, English, Indonesian, Urdu, and expanding. Culturally aware, not just translated.
 
@@ -208,17 +208,17 @@ Claude AI is embedded as a first-class citizen in NeoBank Chain, not as a chatbo
 
 ---
 
-## 5. Islamic Finance Integration
+## 5. Ethical finance Integration
 
-### 5.1 Shariah-Compliant Products
+### 5.1 values-aligned Products
 
-**Mourabaha (Cost-Plus Financing)**
+**profit-sharing financing (Cost-Plus Financing)**
 NeoBank Chain purchases an asset on behalf of the user and sells it at a transparent markup — no interest. Smart contracts automate the transaction structure and ensure compliance.
 
-**Musharaka (Partnership Financing)**
+**partnership financing (Partnership Financing)**
 Profit-and-loss sharing model for business financing. Both parties share risk and reward proportionally. Fully enforceable via smart contract.
 
-**Mudaraba (Investment Partnership)**
+**investment partnership (Investment Partnership)**
 User provides capital; NeoBank Chain provides management expertise via DeFi yield strategies. Profits shared according to pre-agreed ratios. No guaranteed returns (no riba).
 
 **Ijara (Leasing)**
@@ -227,10 +227,10 @@ Asset-backed financing where NeoBank Chain purchases and leases an asset to the 
 **Zakat Management**
 AI-calculated Zakat based on complete asset portfolio. Direct distribution to verified charitable causes. Full transparency on blockchain.
 
-### 5.2 Shariah Governance
-- International Shariah board certification sought from AAOIFI-recognized scholars
+### 5.2 ethical Governance
+- International ethical board certification sought from AAOIFI-recognized scholars
 - All products reviewed before launch
-- Annual Shariah compliance audit published publicly
+- Annual ethical compliance audit published publicly
 - No product is labeled Islamic without formal certification
 
 ---
@@ -308,7 +308,7 @@ Banking-as-a-Service for businesses:
 | Card interchange fees | Standard Visa/Mastercard rates | Passive |
 | B2B API licensing | Monthly SaaS fee per business | Scalable |
 | Trade finance fees | 0.5%–1% on Credoc value | High value |
-| Islamic finance structuring | 1%–2% on financing amount | Specialty |
+| Ethical finance structuring | 1%–2% on financing amount | Specialty |
 
 ### 8.2 Financial Projections
 
@@ -331,7 +331,7 @@ Banking-as-a-Service for businesses:
 |---|---|---|
 | Global neobank market | $552 billion | 13% |
 | DeFi total market | $238 billion | 26% |
-| Islamic fintech | $223 billion | 13.8% |
+| ethical fintech | $223 billion | 13.8% |
 | Cross-border payments | $250 trillion/year | 34% (DeFi) |
 | B2B trade finance | $18 trillion/year | 8% |
 
@@ -366,7 +366,7 @@ Banking-as-a-Service for businesses:
 ### 10.2 Investor Targets
 
 **Blockchain ecosystem:** Solana Foundation, Multicoin Capital, Paradigm, Pantera Capital
-**Islamic finance:** GCC family offices, Islamic development bank funds, Shariah-compliant VCs
+**Ethical finance:** GCC family offices, Islamic development bank funds, values-aligned VCs
 **Fintech:** a16z crypto, Sequoia, Y Combinator, Techstars
 
 ---
@@ -376,7 +376,7 @@ Banking-as-a-Service for businesses:
 ### Founder
 **Ghost (Machrouh)** — Founder & Visionary
 - Deep understanding of traditional finance inefficiencies
-- Background spanning CeFi, DeFi, and Islamic finance principles
+- Background spanning CeFi, DeFi, and Ethical finance principles
 - Mission-driven: financial inclusion as a fundamental human right
 
 ### Open Positions (Co-founders sought)
@@ -385,9 +385,9 @@ Banking-as-a-Service for businesses:
 |---|---|
 | CTO / Lead Blockchain Developer | Rust, Solana, React Native, 5+ years |
 | Head of Design | Mobile UX, Figma, fintech experience |
-| Chief Compliance Officer | MiCA, KYC/AML, Islamic finance compliance |
+| Chief Compliance Officer | MiCA, KYC/AML, Ethical finance compliance |
 | Head of Business Development | Banking partnerships, VC fundraising |
-| Islamic Finance Director | Shariah board experience, AAOIFI certification |
+| Ethical finance Director | ethical board experience, AAOIFI certification |
 | Lead Security Engineer | Smart contract auditing, fintech security |
 
 📧 neobankchain@gmail.com
@@ -397,7 +397,7 @@ Banking-as-a-Service for businesses:
 ## 12. Legal & Regulatory
 
 ### Target Incorporation
-Primary: **UAE (ADGM / DIFC)** — leading global hub for Islamic finance and crypto regulation
+Primary: **UAE (ADGM / DIFC)** — leading global hub for Ethical finance and crypto regulation
 Secondary: **EU (Lithuania / Estonia)** — MiCA compliant, EU market access
 Sandbox: **UK FCA Innovation Sandbox** — regulatory experimentation
 
@@ -406,15 +406,15 @@ Sandbox: **UK FCA Innovation Sandbox** — regulatory experimentation
 - Smart contract vulnerabilities (mitigated by mandatory audits)
 - Competition from well-funded incumbents
 - Technology execution risk
-- Islamic finance Shariah interpretation differences across jurisdictions
+- Ethical finance ethical interpretation differences across jurisdictions
 
-*All use of NeoBank Chain involves financial risk. Consult a qualified financial and Shariah advisor before making financial decisions.*
+*All use of NeoBank Chain involves financial risk. Consult a qualified financial and ethical advisor before making financial decisions.*
 
 ---
 
 ## 13. Conclusion
 
-The financial system is broken for the majority of humanity. Traditional banks are too expensive, too slow, and too exclusive. DeFi is too complex and too disconnected from real life. Islamic finance is underserved and underdigitized. B2B trade finance is stuck in the 1970s.
+The financial system is broken for the majority of humanity. Traditional banks are too expensive, too slow, and too exclusive. DeFi is too complex and too disconnected from real life. Ethical finance is underserved and underdigitized. B2B trade finance is stuck in the 1970s.
 
 **NeoBank Chain answers all four simultaneously.**
 
@@ -438,6 +438,6 @@ The market is validated. The technology is ready. The opportunity is now.
 **NeoBank Chain** — *Your bank. Your rules. On blockchain.* 🚀
 
 *White Paper v2.0 — April 2026*
-*The world's first CeFi + DeFi + Islamic Finance + AI super-app.*
+*The world's first CeFi + DeFi + Ethical finance + AI super-app.*
 
 </div>

@@ -14,8 +14,8 @@ Too many fees. Too many intermediaries. Too many barriers. Too slow. Too exclusi
 **In the decentralized world (DeFi):**
 Revolutionary technology. But too complex. Too intimidating. Too disconnected from real money. 95% of people cannot safely use DeFi today.
 
-**In Islamic finance:**
-$5.2 trillion in assets. 1.8 billion potential users. But no platform has truly combined Shariah-compliant banking with modern DeFi and AI. The gap is enormous — and it is an opportunity.
+**In Ethical finance:**
+$5.2 trillion in assets. 1.8 billion potential users. But no platform has truly combined values-aligned banking with modern DeFi and AI. The gap is enormous — and it is an opportunity.
 
 **NeoBank Chain bridges all three worlds simultaneously.**
 
@@ -25,18 +25,18 @@ $5.2 trillion in assets. 1.8 billion potential users. But no platform has truly 
 
 We are not a crypto wallet.
 We are not a traditional neobank.
-We are not an Islamic bank.
+We are not an ethical bank.
 We are not an AI chatbot.
 
 **We are the first financial super-app to unify all four into one seamless experience.**
 
 ```
-🏦 CeFi World              ☪️ Islamic Finance         ⛓️ DeFi World
+🏦 CeFi World              ☪️ Ethical finance         ⛓️ DeFi World
 ─────────────              ──────────────────         ─────────────
 Regulated & trusted        Interest-free              Transparent
-Familiar banking UI        Shariah-compliant          Permissionless
+Familiar banking UI        values-aligned          Permissionless
 Fiat currencies            Ethical investing          Blockchain-powered
-SWIFT transfers            Mourabaha financing        Instant P2P
+SWIFT transfers            profit-sharing financing financing        Instant P2P
 Traditional credit         Zakat & charity            DeFi yields
 Bank-controlled            Community-driven           User-controlled
         │                          │                        │
@@ -49,7 +49,7 @@ Bank-controlled            Community-driven           User-controlled
 
 This position gives NeoBank Chain access to:
 - The entire traditional finance market — billions of bank customers
-- The 1.8 billion Muslims seeking ethical, interest-free finance
+- The 1.8 billion ethical finance seekers seeking ethical, interest-free finance
 - The 1.7 billion unbanked who need access, not permission
 - The entire DeFi ecosystem — trillions in decentralized value
 - The B2B trade finance market — $250 trillion in annual cross-border flows
@@ -59,10 +59,10 @@ This position gives NeoBank Chain access to:
 ## 💡 The Problems We Solve
 
 ### Problem 1 — The Unbanked Crisis
-1.7 billion adults have no bank account. 50% are in Muslim-majority countries. They are not poor because they are unbanked — they are poor partly **because** they are unbanked. NeoBank Chain gives them a full financial identity with just a smartphone and a 30-second AI-powered KYC.
+1.7 billion adults have no bank account. 50% are in ethical finance seeker-majority countries. They are not poor because they are unbanked — they are poor partly **because** they are unbanked. NeoBank Chain gives them a full financial identity with just a smartphone and a 30-second AI-powered KYC.
 
-### Problem 2 — The Islamic Finance Gap
-1.8 billion Muslims cannot use conventional banking products that charge interest (riba). Existing Islamic banking apps are outdated, expensive, and not truly digital-first. No platform combines Islamic finance with DeFi yields and blockchain technology. NeoBank Chain does — built from first principles, not adapted from conventional banking.
+### Problem 2 — The Ethical finance Gap
+1.8 billion ethical finance seekers cannot use conventional banking products that charge interest (riba). Existing ethical banking apps are outdated, expensive, and not truly digital-first. No platform combines Ethical finance with DeFi yields and blockchain technology. NeoBank Chain does — built from first principles, not adapted from conventional banking.
 
 ### Problem 3 — The DeFi Accessibility Wall
 DeFi offers yields of 5-10% annually on stable assets. But 95% of people cannot access it safely. The interfaces are technical. The terminology is foreign. The risk is unclear. NeoBank Chain puts DeFi yields behind a banking interface — users see "savings account earning 7.8%" not "jitoSOL liquid staking protocol."
@@ -108,7 +108,7 @@ Every blockchain transaction is publicly verifiable on Solana. Every fee is disp
 Choose your level of control — fully custodial, semi-custodial, or self-custody. In all cases, NeoBank Chain never has more access to your funds than you explicitly grant. Your money. Your keys. Your rules.
 
 **4. Ethical Finance First**
-We build for the world as it is, not just for the Western financial mainstream. Islamic finance principles — no interest, no speculation, asset-backed transactions, profit-and-loss sharing — are not a niche feature. They are a core pillar of NeoBank Chain.
+We build for the world as it is, not just for the Western financial mainstream. Ethical finance principles — no interest, no speculation, asset-backed transactions, profit-and-loss sharing — are not a niche feature. They are a core pillar of NeoBank Chain.
 
 **5. AI That Empowers**
 Claude AI in NeoBank Chain is not a chatbot for answering FAQs. It is a financial advisor that understands your full financial picture, speaks your language, respects your values, and helps you make better decisions — proactively, not reactively.
@@ -137,7 +137,7 @@ NeoBank Chain is open source. Every smart contract is audited and public. Every 
 Imagine a world where:
 
 - A mother in Senegal receives money from her son in France **in 3 seconds for $0.001**
-- A Muslim entrepreneur in Indonesia accesses Mourabaha financing **from her phone in 5 minutes**
+- A ethical finance seeker entrepreneur in Indonesia accesses profit-sharing financing financing **from her phone in 5 minutes**
 - A small factory owner in Morocco issues a letter of credit **on blockchain in 2 hours instead of 10 days**
 - A student in Egypt earns **5% annual yield on her savings** with the simplicity of a banking app
 - A migrant worker in the Gulf **sends 100% of his salary home** with zero intermediary fees
@@ -174,7 +174,7 @@ If you are a developer, designer, banker, regulator, investor, or simply someone
 
 **NeoBank Chain** — *Your bank. Your rules. On blockchain.* 🚀
 
-*The world's first CeFi + DeFi + Islamic Finance + AI super-app.*
+*The world's first CeFi + DeFi + Ethical finance + AI super-app.*
 *neobankchain@gmail.com | github.com/machrouh35/NeoBank-Chain*
 
 *Vision v2.0 — April 2026*

@@ -7,9 +7,9 @@
 
 ## 👋 Welcome, Contributor!
 
-Thank you for your interest in NeoBank Chain — the world's first true bridge between Centralized Finance, Decentralized Finance, Islamic Finance, and AI-powered banking.
+Thank you for your interest in NeoBank Chain — the world's first true bridge between Centralized Finance, Decentralized Finance, Ethical finance, and AI-powered banking.
 
-Whether you are a **Solana developer**, **mobile engineer**, **UI/UX designer**, **Islamic finance expert**, **compliance professional**, or simply a **believer in financial freedom for everyone** — there is a place for you here.
+Whether you are a **Solana developer**, **mobile engineer**, **UI/UX designer**, **Ethical finance expert**, **compliance professional**, or simply a **believer in financial freedom for everyone** — there is a place for you here.
 
 We build in public. We build together. We build for everyone.
 
@@ -20,7 +20,7 @@ We build in public. We build together. We build for everyone.
 Before contributing, please understand what drives this project:
 
 - **Inclusion first** — we build for the 1.7 billion unbanked, not just for crypto-native users
-- **Ethical finance** — we respect Islamic finance principles as a core pillar, not an afterthought
+- **Ethical finance** — we respect Ethical finance principles as a core pillar, not an afterthought
 - **Security above all** — we handle real money; every line of code matters
 - **Transparency** — all decisions, architectures, and trade-offs are documented publicly
 - **Quality** — we prefer doing fewer things exceptionally well over many things poorly
@@ -59,7 +59,7 @@ Write your code, documentation, or design files.
 
 ```bash
 # Use conventional commits format
-git commit -m "feat: add Islamic finance Mourabaha calculator"
+git commit -m "feat: add Ethical finance profit-sharing financing calculator"
 git commit -m "fix: correct USDC balance display on dashboard"
 git commit -m "docs: add Arabic translation to README"
 git commit -m "security: fix reentrancy vulnerability in withdrawal"
@@ -108,7 +108,7 @@ Then open a Pull Request on GitHub with:
 **Community**
 - Discord community management
 - Social media content (Twitter/X)
-- Islamic finance community outreach
+- Ethical finance community outreach
 - DeFi community outreach
 
 ### 💻 Development (Phase 2+)
@@ -116,7 +116,7 @@ Then open a Pull Request on GitHub with:
 **Blockchain (Rust/Solana)**
 - Wallet program development
 - Transfer program development
-- Islamic finance smart contracts (Mourabaha)
+- Ethical finance smart contracts (profit-sharing financing)
 - B2B Credoc program
 
 **Mobile (React Native)**
@@ -124,7 +124,7 @@ Then open a Pull Request on GitHub with:
 - Dashboard & wallet view
 - Transfer screens (CeFi + DeFi routing)
 - Claude AI chat interface
-- Islamic finance products UI
+- Ethical finance products UI
 - B2B professional suite UI
 
 **Backend (Node.js)**
@@ -139,11 +139,11 @@ Then open a Pull Request on GitHub with:
 - Penetration testing
 - Security documentation
 
-### ⚖️ Islamic Finance Expertise
-- Shariah compliance review of product designs
-- Mourabaha contract structuring
+### ⚖️ Ethical finance Expertise
+- ethical compliance review of product designs
+- profit-sharing financing contract structuring
 - Zakat calculation methodology
-- Connection to Shariah scholars for certification
+- Connection to ethical scholars for certification
 
 ### 📋 Compliance & Legal
 - MiCA (EU) compliance documentation
@@ -206,9 +206,9 @@ A bug bounty program will be launched in Phase 4.
 
 NeoBank Chain targets a global audience. We especially need:
 
-- **Arabic** — primary language for MENA Islamic finance users
+- **Arabic** — primary language for MENA Ethical finance users
 - **French** — Morocco, Tunisia, Algeria, West Africa, France
-- **Indonesian** — world's largest Muslim population
+- **Indonesian** — world's largest ethical finance seeker population
 - **Urdu** — Pakistan, Indian subcontinent
 - **Hausa** — West Africa
 

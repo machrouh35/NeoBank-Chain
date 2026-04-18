@@ -17,11 +17,11 @@
 
 - 🏦 **Traditional banking** — IBAN, SEPA, SWIFT, cards, loans
 - ⛓️ **Decentralized finance** — Solana blockchain, DeFi yields, smart contracts
-- ☪️ **Islamic finance** — Interest-free products, Mourabaha, Shariah-compliant
+- ☪️ **Ethical finance** — Interest-free products, profit-sharing financing, values-aligned
 - 🤖 **AI-powered banking** — Claude AI as your personal financial advisor
 - 💼 **Professional B2B tools** — Letters of credit, trade finance, documentary collections
 
-We are not a crypto wallet. We are not a neobank. We are not an Islamic bank.
+We are not a crypto wallet. We are not a neobank. We are not an ethical bank.
 **We are all of them — in one single app.**
 
 ---
@@ -37,7 +37,7 @@ Fiat currencies                 Crypto & stablecoins
 Regulated loans                 DeFi lending & yield farming
 KYC / AML compliant             Permissionless access
 Apple Pay / Google Pay          Smart contracts
-☪️ Islamic finance              Transparent on-chain data
+☪️ Ethical finance              Transparent on-chain data
 B2B trade finance               Programmable money
          │                               │
          └──────────────┐   ┌────────────┘
@@ -54,7 +54,7 @@ B2B trade finance               Programmable money
 |---|---|
 | 1.7 billion unbanked people worldwide | Full account with just a smartphone |
 | Average international transfer fee: 6.3% | Instant transfers at $0.001 via Solana |
-| 1.8 billion Muslims excluded from interest-based banking | 100% Shariah-compliant products built-in |
+| 1.8 billion ethical finance seekers excluded from interest-based banking | 100% values-aligned products built-in |
 | DeFi too complex for mainstream users | Banking UI hiding blockchain complexity |
 | No single app bridges CeFi + DeFi | NeoBank Chain — first true bridge |
 | SMEs blocked from trade finance | Blockchain-powered Credoc & documentary collections |
@@ -87,11 +87,11 @@ B2B trade finance               Programmable money
 - AI fraud detection and smart alerts 24/7
 - Speaks your language, understands your culture
 
-### ☪️ Islamic Finance — Built-in, Not Bolted-on
-- Interest-free financing (Mourabaha, Musharaka, Mudaraba)
-- Shariah-compliant savings and investment products
+### ☪️ Ethical finance — Built-in, Not Bolted-on
+- Interest-free financing (profit-sharing financing, partnership financing, investment partnership)
+- values-aligned savings and investment products
 - Zakat calculator and transparent charitable giving
-- Certified by recognized international Shariah boards
+- Certified by recognized international ethical boards
 
 ### 📈 DeFi Yield — Made Simple
 - AI selects optimal yield strategy for your risk profile
@@ -139,9 +139,9 @@ NeoBank Chain
 |---|---|---|
 | Global neobank market | $552 billion | +13% CAGR |
 | DeFi market | $238 billion | +26% CAGR → $770B by 2031 |
-| Islamic fintech | $223 billion | +13.8% CAGR → $619B by 2033 |
+| ethical fintech | $223 billion | +13.8% CAGR → $619B by 2033 |
 | Cross-border payments | $250 trillion/year | +34% CAGR (DeFi rails) |
-| Unbanked population | 1.7 billion people | 50% in Muslim-majority countries |
+| Unbanked population | 1.7 billion people | 50% in ethical finance seeker-majority countries |
 
 **No single competitor addresses all these markets simultaneously.**
 
@@ -156,7 +156,7 @@ Revenue:
 - DeFi yield spread: 0.3%–0.5%
 - Premium card & subscription: €9.99/month
 - B2B API licensing & trade finance fees
-- Islamic finance product structuring fees
+- Ethical finance product structuring fees
 
 ---
 
@@ -175,7 +175,7 @@ Revenue:
 ## 🎯 Target Users
 
 - **1.7 billion unbanked** — access full banking with just a smartphone
-- **1.8 billion Muslims** — first true CeFi+DeFi Islamic finance super-app
+- **1.8 billion ethical finance seekers** — first true CeFi+DeFi Ethical finance super-app
 - **Diaspora & migrants** — send money home instantly at near-zero cost
 - **Entrepreneurs & SMEs** — trade finance, international payments, treasury
 - **Crypto users** — manage DeFi with a banking-grade interface
@@ -204,7 +204,7 @@ git push origin feature/your-feature
 
 Currently pursuing:
 - **Solana Foundation Grant** — applying now (up to $100K, free)
-- **Islamic finance VCs** — GCC institutional investors
+- **Ethical finance VCs** — GCC institutional investors
 - **Crypto-native VCs** — Multicoin Capital, Paradigm, Pantera
 - **Fintech accelerators** — Y Combinator, Techstars
 
@@ -221,7 +221,7 @@ Currently pursuing:
 
 **NeoBank Chain** — *Your bank. Your rules. On blockchain.* 🚀
 
-*The world's first CeFi + DeFi + Islamic Finance + AI super-app.*
+*The world's first CeFi + DeFi + Ethical finance + AI super-app.*
 *Built on Solana. Powered by Claude AI. Open to everyone.*
 
 *Version 2.0 — April 2026*

@@ -44,7 +44,7 @@ This roadmap is our public commitment to building NeoBank Chain transparently an
 - [ ] WHITEPAPER.md v2 — full technical & economic paper
 - [ ] CONTRIBUTING.md v2 — developer guide
 - [ ] docs/features.md — complete feature specifications
-- [ ] docs/islamic-finance.md — Shariah compliance documentation
+- [ ] docs/islamic-finance.md — ethical compliance documentation
 - [ ] docs/b2b-suite.md — professional products documentation
 
 ### Design System
@@ -59,7 +59,7 @@ This roadmap is our public commitment to building NeoBank Chain transparently an
 - [ ] Solana Foundation Grant application submitted
 - [ ] Project landing page live
 - [ ] Twitter/X account launched
-- [ ] Discord community (CeFi + DeFi + Islamic finance channels)
+- [ ] Discord community (CeFi + DeFi + Ethical finance channels)
 - [ ] First 100 GitHub stars
 
 ---
@@ -73,7 +73,7 @@ This roadmap is our public commitment to building NeoBank Chain transparently an
 - [ ] Solana smart contract architecture (Rust/Anchor)
 - [ ] CeFi banking API integration design
 - [ ] DeFi protocol integration design (Jupiter, Jito, Kamino, Solend)
-- [ ] Islamic finance smart contract logic (Mourabaha on-chain)
+- [ ] Ethical finance smart contract logic (profit-sharing financing on-chain)
 - [ ] AI integration architecture (Claude API)
 - [ ] KYC/AML compliance framework
 - [ ] B2B trade finance architecture (Credoc on blockchain)
@@ -83,7 +83,7 @@ This roadmap is our public commitment to building NeoBank Chain transparently an
 - [ ] React Native project setup
 - [ ] Unified dashboard (fiat + crypto + yield)
 - [ ] Smart transfer screen (CeFi vs DeFi route selector)
-- [ ] Islamic finance products prototype
+- [ ] Ethical finance products prototype
 - [ ] Claude AI chat interface prototype
 - [ ] Interactive demo (TestFlight / Expo)
 
@@ -107,7 +107,7 @@ This roadmap is our public commitment to building NeoBank Chain transparently an
 - [ ] Transfer program — P2P, batch, scheduled
 - [ ] Savings program — yield vault, auto-compound
 - [ ] Lending program — collateralized borrowing
-- [ ] Islamic finance program — Mourabaha smart contracts
+- [ ] Ethical finance program — profit-sharing financing smart contracts
 - [ ] B2B program — letter of credit on-chain
 - [ ] Full security test suite (>90% coverage)
 
@@ -133,7 +133,7 @@ This roadmap is our public commitment to building NeoBank Chain transparently an
 - [ ] Unified wallet dashboard
 - [ ] Send & receive (smart routing)
 - [ ] DeFi yield products
-- [ ] Islamic finance products
+- [ ] Ethical finance products
 - [ ] B2B professional suite
 - [ ] Claude AI chat interface
 - [ ] iOS & Android builds
@@ -152,7 +152,7 @@ This roadmap is our public commitment to building NeoBank Chain transparently an
 - [ ] Bug bounty program launch ($10K–$100K rewards)
 - [ ] GDPR compliance certification
 - [ ] MiCA regulatory compliance review
-- [ ] Shariah board certification for Islamic products
+- [ ] ethical board certification for Islamic products
 - [ ] Financial regulatory approvals (UAE / EU)
 
 ### Testing
@@ -174,16 +174,16 @@ This roadmap is our public commitment to building NeoBank Chain transparently an
 ### Launch
 - [ ] App Store & Google Play submission
 - [ ] Public beta — target 5,000 users
-- [ ] Press release — fintech, crypto, Islamic finance media
+- [ ] Press release — fintech, crypto, Ethical finance media
 - [ ] Product Hunt launch
 - [ ] Community ambassador program
-- [ ] Influencer partnerships (Islamic finance + crypto communities)
+- [ ] Influencer partnerships (Ethical finance + crypto communities)
 
 ### Fundraising
 - [ ] Seed round closed: $500K–$1M
 - [ ] Solana Foundation strategic partnership
 - [ ] First CeFi banking partnership agreement
-- [ ] Islamic finance institutional partnership (GCC)
+- [ ] Ethical finance institutional partnership (GCC)
 - [ ] DeFi protocol partnerships (Jito, Jupiter, Kamino)
 
 ---
@@ -193,7 +193,7 @@ This roadmap is our public commitment to building NeoBank Chain transparently an
 | Feature | Target |
 |---|---|
 | Physical NeoBank Chain Card | Q1 2028 |
-| Full Islamic finance suite (Takaful, Sukuk) | Q2 2028 |
+| Full Ethical finance suite (Takaful, Sukuk) | Q2 2028 |
 | Decentralized lending for unbanked | Q3 2028 |
 | Full B2B enterprise API | Q4 2028 |
 | Tokenized real-world assets | Q1 2029 |
@@ -225,7 +225,7 @@ We need builders from every world:
 **Mobile developers:** React Native, TypeScript
 **Backend developers:** Node.js, GraphQL, PostgreSQL
 **Designers:** Figma, mobile UX, design systems
-**Islamic finance experts:** Shariah compliance, product structuring
+**Ethical finance experts:** ethical compliance, product structuring
 **Compliance & legal:** Fintech regulation, KYC/AML
 **Community:** Arabic, French, Indonesian, English speakers
 
